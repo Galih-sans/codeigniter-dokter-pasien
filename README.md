@@ -1,6 +1,6 @@
-# CodeIgniter 4 Application Starter
+# Codeigniter Dokter dan Pasien
 
-## What is CodeIgniter?
+## Contoh penerapan CRUD data Dokter dan Pasien yang berelasi dengan Codeigniter 4
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
 More information can be found at the [official site](http://codeigniter.com).
