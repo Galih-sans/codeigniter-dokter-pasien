@@ -2,17 +2,7 @@
 
 ## Contoh penerapan CRUD data Dokter dan Pasien yang berelasi dengan Codeigniter 4
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
-
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
-
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
-
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+<img src="https://private-user-images.githubusercontent.com/43230707/300314845-d6201cac-670d-4984-99a6-cd6245493131.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0OTQyMDUsIm5iZiI6MTcwNjQ5MzkwNSwicGF0aCI6Ii80MzIzMDcwNy8zMDAzMTQ4NDUtZDYyMDFjYWMtNjcwZC00OTg0LTk5YTYtY2Q2MjQ1NDkzMTMxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAyMDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkZmIwYTA4ZmUzMWI1ZGRiYjU4NzdiNjczNGFiNjViZDdjYzk4MDkxMDRkZTllMDYxMWYyNjc4ZjUwMTdmZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nrTczS8OnbpWXmecS3a6YXMGeJ413YaZIvwl_nQs7_w" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 ## Installation & updates
 
